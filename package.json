@@ -1,0 +1,22 @@
+{
+  "name": "spammeerder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ome-janusz/spammeerder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ome-janusz/spammeerder/issues"
+  },
+  "homepage": "https://github.com/ome-janusz/spammeerder#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
